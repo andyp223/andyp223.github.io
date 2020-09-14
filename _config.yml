@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Site Title
+title: Andrew
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Andrew Park 
+  avatar: propic.jpg
+  bio: "Currently @ AQR, Previously @ Brown."
+  email: andyp223@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: andyp223
   linkedin: #username
-  github: #username
+  github: andyp223
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
