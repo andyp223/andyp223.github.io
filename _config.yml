@@ -1,74 +1,46 @@
-# Site wide configuration
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Andrew
-locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Andrew Park
+email: andyp223 [at] gmail [dot] com
+description: Currently @ AQR, Previously @ Brown University 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: andyp223
+github_username:  andyp223
+# linkedin_username:  uthsav-chitra-12aba183
 
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Andrew Park 
-  avatar: propic.jpg
-  bio: "Currently @ AQR, Previously @ Brown."
-  email: andyp223@gmail.com
-  # Do not include the @ symbol in your Twitter username
-  twitter: andyp223
-  linkedin: #username
-  github: andyp223
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    scholar: #id
-  facebook: #username
-  instagram: #username
-  bing-verify:
-  stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
-  xing: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-  disqus-shortname:
-
-# The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
-# you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
-lowlight-color: '#000'
-
-  # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
-creative-commons:
-  cc-by: #yes
-  cc-by-nc: #yes
-
-#DO NOT EDIT BEYOND THIS POINT
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
+# Build settings
+markdown: kramdown
+theme: minima
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-feed
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+# a way have multiple content sections in a page??
+# see https://dev-notes.eu/2016/08/page-sections-in-jekyll-seperating-content-from-layout/
+# collections:
+#   - sections
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
