@@ -7,7 +7,7 @@ permalink: "personal.html"
 
 # Personal
 
-Outside of research, I enjoy most card and board games (such as poker). I have also recently been interested in Go. 
+Outside of research, I like card and board games like poker and Go. 
 
 
 
