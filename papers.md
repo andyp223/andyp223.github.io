@@ -14,4 +14,6 @@ In submission, 2020
 
 ## Papers
 
-Coming Soon :)
+* [<span style="color:maroon">A Decentralized and Encrypted National Gun Registry</span>]()     
+Seny Kamara, Tarik Moataz, Andrew Park, Lucy Qin
+IEEE S\&P 2021, Conditionally Accepted
