@@ -29,5 +29,5 @@ During my time at Brown, I was fortunate to work with <a href="http://cs.brown.e
 </div>
 &nbsp;
 ## News
-
+- December 2020: Our paper "A Decentralized and Encrypted National Gun Registry" has been conditionally accepted to Oakland 2021!
 - I am applying to PhD programs for Fall 2021. 
