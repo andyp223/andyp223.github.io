@@ -19,4 +19,4 @@ In Preparation
 
 * [<span style="color:maroon">A Decentralized and Encrypted National Gun Registry</span>](papers/GR.pdf)     
 Seny Kamara, Tarik Moataz, Andrew Park, Lucy Qin \\
-IEEE S&P 2021
+IEEE S&P 2021 (To Appear)
