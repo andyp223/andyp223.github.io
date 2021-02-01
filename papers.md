@@ -20,5 +20,5 @@ AISTATS 2021 (To Appear)
 
 * [<span style="color:maroon">A Decentralized and Encrypted National Gun Registry</span>](http://cs.brown.edu/~seny/pubs/gunreg.pdf)     
 Seny Kamara, Tarik Moataz, Andrew Park, Lucy Qin \\
-IEEE S&P 2021 (To Appear)
+IEEE S&P 2021 (To Appear) \\
 [[Wired](https://www.wired.com/story/national-gun-registry-encrypted-decentralized/)]
