@@ -29,6 +29,6 @@ During my time at Brown, I was fortunate to work with <a href="http://cs.brown.e
 </div>
 &nbsp;
 ## News
-- January 2021: Our paper "Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees" has been accepted to AISTATS 2021!
-- December 2020: Our paper "A Decentralized and Encrypted National Gun Registry" has been accepted to Oakland 2021!
+- 01/2021: See the following [Wired](https://www.wired.com/story/national-gun-registry-encrypted-decentralized) article about our recent work to appear at Oakland 2021.
+-  01/2021: Our paper "Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees" has been accepted to AISTATS 2021!
 - I am applying to PhD programs for Fall 2021. 
