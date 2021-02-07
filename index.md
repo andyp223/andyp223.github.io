@@ -16,7 +16,7 @@ navigation_weight: 1
 
 ![right-aligned-image](headshot5.jpg){: .image-left width="315px"}
 <div markdown="1" class="spaced-lines">
-Hello! I am a recent graduate of Brown University, where I studied Applied Math and Computer Science. I am broadly interested in cryptography, security, and problems at their intersection.
+Hello! I am a recent graduate of Brown University, where I studied Applied Math and Computer Science. I am broadly interested in systems security and applied cryptography.
 
 
 During my time at Brown, I was fortunate to work with <a href="http://cs.brown.edu/~seny/">Seny Kamara</a> on multiple projects dealing with leakage attacks and searchable databases, and <a href="http://cs.brown.edu/people/eupfal/">Eli Upfal</a> on weakly supervised learning.
