@@ -16,10 +16,9 @@ navigation_weight: 1
 
 ![right-aligned-image](headshot5.jpg){: .image-left width="315px"}
 <div markdown="1" class="spaced-lines">
-Hello! I am a recent graduate of Brown University, where I studied Applied Math and Computer Science. I am broadly interested in systems security and applied cryptography.
+Hello! I am a recent graduate of Brown University, where I studied Applied Math and Computer Science. I am broadly interested in theoretical and applied cryptography. 
 
-
-During my time at Brown, I was fortunate to work with <a href="http://cs.brown.edu/~seny/">Seny Kamara</a> on multiple projects dealing with leakage attacks and searchable databases, and <a href="http://cs.brown.edu/people/eupfal/">Eli Upfal</a> on weakly supervised learning.
+During my time at Brown, I was fortunate to work with <a href="http://cs.brown.edu/~seny/">Seny Kamara</a> on multiple projects dealing with leakage attacks, searchable databases, and MPC, as well as <a href="http://cs.brown.edu/people/eupfal/">Eli Upfal</a> on weakly supervised learning.
 
      
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao)>
@@ -29,6 +28,6 @@ During my time at Brown, I was fortunate to work with <a href="http://cs.brown.e
 </div>
 &nbsp;
 ## News
+- 03/2021: I will be attending CMU starting Fall 2021 where I will be studying cryptography and systems security. 
 - 01/2021: See the following [Wired](https://www.wired.com/story/national-gun-registry-encrypted-decentralized) article about our recent work to appear at Oakland 2021.
 -  01/2021: Our paper "Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees" has been accepted to AISTATS 2021!
-- I am applying to PhD programs for Fall 2021. 
