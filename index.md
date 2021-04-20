@@ -28,6 +28,5 @@ During my time at Brown, I was fortunate to work with <a href="http://cs.brown.e
 </div>
 &nbsp;
 ## News
-- 03/2021: I will be attending CMU starting Fall 2021 where I will be studying cryptography and systems security. 
 - 01/2021: See the following [Wired](https://www.wired.com/story/national-gun-registry-encrypted-decentralized) article about our recent work to appear at Oakland 2021.
 -  01/2021: Our paper "Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees" has been accepted to AISTATS 2021!
