@@ -7,7 +7,12 @@ permalink: "personal.html"
 
 # Personal
 
-Outside of research, I like card and board games like poker and Go. 
+Outside of research, my hobbies include:
+- learning languages (currently studying Chinese and Japanese) 
+- food (trying to reach Yelp Elite) 
+- coffee (like many other grad students) 
+- poker (particularly tournament poker) 
+- Go (my favorite players are Lee Sedol and Fujisawa Rina) 
 
 
 
