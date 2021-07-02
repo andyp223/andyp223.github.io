@@ -20,7 +20,9 @@ Hello! I am a recent graduate of Brown University, where I studied Applied Math 
 
 During my time at Brown, I was fortunate to work with <a href="http://cs.brown.edu/~seny/">Seny Kamara</a> on multiple projects dealing with leakage attacks, searchable databases, and MPC, as well as <a href="http://cs.brown.edu/people/eupfal/">Eli Upfal</a> on weakly supervised learning.
 
-     
+[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=jgQzhucAAAAJ)
+
+
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao)>
 [[CV]](chitra_cv_spring_2020.pdf) -->
 
