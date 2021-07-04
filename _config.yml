@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Andrew Park
-email: ahp2 [at] andrew [dot] cmu [dot] edu
+email: andrewpark [at] cmu [dot] edu
 description: Currently @ AQR, Previously @ Brown University 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
