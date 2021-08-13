@@ -16,9 +16,9 @@ navigation_weight: 1
 
 ![right-aligned-image](headshot5.jpg){: .image-left width="315px"}
 <div markdown="1" class="spaced-lines">
-Hello! I am a recent graduate of Brown University, where I studied Applied Math and Computer Science. I am broadly interested in theoretical and applied cryptography. 
+Hello! I am a first-year PhD in the Computer Science Department at CMU.. I am broadly interested in theoretical and applied cryptography. 
 
-During my time at Brown, I was fortunate to work with <a href="http://cs.brown.edu/~seny/">Seny Kamara</a> on multiple projects dealing with leakage attacks, searchable databases, and MPC, as well as <a href="http://cs.brown.edu/people/eupfal/">Eli Upfal</a> on weakly supervised learning.
+I did my undergrad at Brown University, where I studied computer science and applied math. During my time at Brown, I was fortunate to work with <a href="http://cs.brown.edu/~seny/">Seny Kamara</a> on multiple projects dealing with leakage attacks, searchable databases, and MPC, as well as <a href="http://cs.brown.edu/people/eupfal/">Eli Upfal</a> on weakly supervised learning.
 
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=jgQzhucAAAAJ)
 
