@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Andrew Park
 email: andrewpark [at] cmu [dot] edu
-description: Currently @ AQR, Previously @ Brown University 
+description: Currently @ CMU, Previously @ Brown University 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: andyp223
