@@ -7,7 +7,7 @@ permalink: "papers.html"
 
 ## Manuscripts/Preprints
 
-* [<span style="color:maroon">NanoGRAM: Garbled RAM with $\widetilde{O}(\log N)$ Overhead</span>]()     
+* [<span style="color:maroon">NanoGRAM: Garbled RAM with Õ(log N)$ Overhead</span>]()     
 Andrew Park, Wei-Kai Lin, Elaine Shi (randomized author ordering) \\
 IACR Eprint
 
