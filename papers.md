@@ -7,9 +7,10 @@ permalink: "papers.html"
 
 ## Manuscripts/Preprints
 
-* [<span style="color:maroon">Markov Inference Attacks</span>]()     
-Seny Kamara, Tarik Moataz, Andrew Park  \\
-In Preparation 
+* [<span style="color:maroon">NanoGRAM: Garbled RAM with $\widetilde{O}(\log N)$ Overhead</span>]()     
+Andrew Park, Wei-Kai Lin, Elaine Shi (randomized author ordering) \\
+In Submission
+
 
 
 ## Papers
