@@ -16,7 +16,7 @@ navigation_weight: 1
 
 ![right-aligned-image](headshot5.jpg){: .image-left width="315px"}
 <div markdown="1" class="spaced-lines">
-Hello! I am a first-year PhD in the Computer Science Department at CMU fortunately co-advised by <a href="http://elaineshi.com/index.html">Elaine Shi</a> and <a href="https://wzheng.github.io/">Wenting Zheng</a>. I am broadly interested in theoretical and applied cryptography. 
+Hello! I am a PhD student in the Computer Science Department at CMU fortunately co-advised by <a href="http://elaineshi.com/index.html">Elaine Shi</a> and <a href="https://wzheng.github.io/">Wenting Zheng</a>. I am broadly interested in theoretical and applied cryptography. 
 
 I did my undergrad at Brown University, where I studied computer science and applied math. During my time at Brown, I was fortunate to work with <a href="http://cs.brown.edu/~seny/">Seny Kamara</a> on multiple projects dealing with leakage attacks, searchable databases, and MPC, as well as <a href="http://cs.brown.edu/people/eupfal/">Eli Upfal</a> on weakly supervised learning.
 
