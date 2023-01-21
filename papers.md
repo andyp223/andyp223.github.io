@@ -11,6 +11,10 @@ permalink: "papers.html"
 Andrew Park, Wei-Kai Lin, Elaine Shi (randomized author ordering) \\
 IACR Eprint
 
+* [<span style="color:maroon">Communication-efficient, Fault Tolerant PIR over Erasure Coded
+  Storage</span>](https://andyp223.github.io/papers.html)     
+Andrew Park, Trevor Leong, Francisco Maturana, Wenting Zheng, Rashmi Vinayak (randomized author ordering) \\
+In Submission
 
 
 ## Papers
