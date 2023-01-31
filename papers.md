@@ -16,7 +16,7 @@ In Submission
 ## Papers
 * [<span style="color:maroon">NanoGRAM: Garbled RAM with Õ(log N) Overhead</span>](https://eprint.iacr.org/2022/191)     
 Andrew Park, Wei-Kai Lin, Elaine Shi (randomized author ordering) \\
-EUROCRYPT 2023
+Eurocrypt 2023
 * [<span style="color:maroon">Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees</span>](papers/FSL.pdf)     
 Alessio Mazzetto, Dylan Sam, Andrew Park, Stephen Bach, Eliezer Upfal  \\
 AISTATS 2021 
