@@ -30,5 +30,4 @@ I did my undergrad at Brown University, where I studied computer science and app
 </div>
 &nbsp;
 ## News
-- 01/2021: See the following [Wired](https://www.wired.com/story/national-gun-registry-encrypted-decentralized) article about our recent work to appear at Oakland 2021.
--  01/2021: Our paper "Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees" has been accepted to AISTATS 2021!
+- 02/2023: Our paper on Garbled RAM wass accepted to EUROCRYPT 2023! 
