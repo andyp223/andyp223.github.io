@@ -30,4 +30,4 @@ I did my undergrad at Brown University, where I studied computer science and app
 </div>
 &nbsp;
 ## News
-- 02/2023: Our paper on Garbled RAM wass accepted to EUROCRYPT 2023! 
+- 02/2023: Our paper on Garbled RAM was accepted to EUROCRYPT 2023! 
