@@ -12,6 +12,11 @@ permalink: "papers.html"
 Andrew Park, Trevor Leong, Francisco Maturana, Wenting Zheng, Rashmi Vinayak\\
 In Submission
 
+* [<span style="color:maroon">MAPLE: MArkov Process Leakage attacks on Encrypted search</span>](https://andyp223.github.io/papers.html)     
+Jamie DeMaria, Seny Kamara, Abdelkarim Kati, Tarik Moataz, Andrew Park, Amos Treiber\\
+In Submission
+
+
 
 ## Papers
 * [<span style="color:maroon">NanoGRAM: Garbled RAM with Õ(log N) Overhead</span>](https://eprint.iacr.org/2022/191)     
