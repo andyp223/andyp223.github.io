@@ -7,6 +7,10 @@ permalink: "papers.html"
 
 ## Manuscripts/Preprints
 
+* [<span style="color:maroon">Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation</span>](https://eprint.iacr.org/2023/452)     
+Mingxun Zhou, Andrew Park, Elaine Shi, Wenting Zheng\\
+IACR Eprint
+
 * [<span style="color:maroon">Communication-efficient, Fault Tolerant PIR over Erasure Coded
   Storage</span>](https://andyp223.github.io/papers.html)     
 Andrew Park, Trevor Leong, Francisco Maturana, Wenting Zheng, Rashmi Vinayak\\
