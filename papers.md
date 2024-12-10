@@ -7,7 +7,7 @@ permalink: "papers.html"
 
 ## Papers
 * [<span style="color:maroon">Communication-efficient, Fault Tolerant PIR over Erasure Coded
-  Storage</span>](https://andyp223.github.io/papers.html)     
+  Storage</span>](papers/Oakland_2024.pdf)     
 Andrew Park, Trevor Leong, Francisco Maturana, Wenting Zheng, Rashmi Vinayak\\
 IEEE S&P 2024 
 * [<span style="color:maroon">Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation</span>](https://eprint.iacr.org/2023/452)     
