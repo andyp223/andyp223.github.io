@@ -6,7 +6,7 @@ permalink: "papers.html"
 ---
 
 ## Papers
-* [<span style="color:maroon">Polysys: an Algebraic Leakage Attack Engine</span>]     
+* [<span style="color:maroon">Polysys: an Algebraic Leakage Attack Engine</span>](papers/Oakland_2024.pdf)     
 Zachary Espiritu, Seny Kamara, Tarik Moataz, Andrew Park\\
 Usenix 2025 (To Appear) 
 * [<span style="color:maroon">Communication-efficient, Fault Tolerant PIR over Erasure Coded
