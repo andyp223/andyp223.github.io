@@ -6,6 +6,9 @@ permalink: "papers.html"
 ---
 
 ## Papers
+* [<span style="color:maroon">Polysys: an Algebraic Leakage Attack Engine</span>]     
+Zachary Espiritu, Seny Kamara, Tarik Moataz, Andrew Park\\
+Usenix 2025 (To Appear) 
 * [<span style="color:maroon">Communication-efficient, Fault Tolerant PIR over Erasure Coded
   Storage</span>](papers/Oakland_2024.pdf)     
 Andrew Park, Trevor Leong, Francisco Maturana, Wenting Zheng, Rashmi Vinayak\\
